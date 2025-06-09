@@ -11,7 +11,7 @@
 <details>
 <summary><strong>1. GameManager.cs</strong></summary>
 
-[GameManager Script]
+[GameManager Script](Scripts/GameManager.cs)
 
 ### 목적:
 게임의 전체적인 흐름을 관리하며, 게임 상태(인트로, 플레이 중, 사망)를 제어하고 점수 계산, 최고 점수 저장, 게임 속도 조절을 담당하는 클래스
@@ -70,7 +70,7 @@
 <details>
 <summary><strong>3. AudioManager.cs</strong></summary>
 
-[AudioManager Script]
+[AudioManager Script](Scripts/AudioManager.cs)
 
 ### 코드의 목적:
 게임 내 효과음(SFX) 재생을 담당
@@ -94,7 +94,7 @@
 <details>
 <summary><strong>4. BackgroundScroll.cs</strong></summary>
 
-[BackGroundScroll Script]
+[BackGroundScroll Script](Scripts/BackgroundScroll.cs)
 
 ### 코드의 목적:
 배경을 좌측으로 스크롤시켜 무한 배경 효과 구현
@@ -114,7 +114,7 @@
 <details>
 <summary><strong>5. Destroyer.cs</strong></summary>
 
-[Destroyer Script]
+[Destroyer Script](Scripts/Destroyer.cs)
 
 ### 코드의 목적:
 왼쪽 경계를 벗어난 오브젝트 삭제 → 성능 최적화
@@ -132,7 +132,7 @@
 <details>
 <summary><strong>6. Spawner.cs</strong></summary>
 
-[Spawner Script]
+[Spawner Script](Scripts/Spawner.cs)
 
 ### 코드의 목적:
 적/음료를 무작위 생성하여 게임 장애물 및 회복 아이템 제공
@@ -152,7 +152,7 @@
 <details>
 <summary><strong>7. Mover.cs</strong></summary>
 
-[Mover Script]
+[Mover Script](Scripts/Mover.cs)
 
 ### 코드의 목적:
 오브젝트를 일정한 속도로 좌측으로 이동 → 무한 스크롤 연출
@@ -172,7 +172,7 @@
 <details>
 <summary><strong>8. Heart.cs</strong></summary>
 
-[Heart Script]
+[Heart Script](Scripts/Heart.cs)
 
 ### 코드의 목적:
 플레이어 체력을 하트 이미지로 시각적으로 표현
@@ -193,7 +193,7 @@
 <details>
 <summary><strong>9. EndButton.cs</strong></summary>
 
-[EndButton Script]
+[EndButton Script](Scripts/EndButton.cs)
 
 ### 코드의 목적:
 게임 종료 화면에서 다시 시작 및 종료 기능 수행
