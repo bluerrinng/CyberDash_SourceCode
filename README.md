@@ -43,7 +43,7 @@
 <details>
 <summary><strong>2. Player.cs</strong></summary>
 
-[Player Script]
+[Player Script](Scripts/Player.cs)
 
 ### 목적:
 플레이어 캐릭터의 움직임 (점프)과 충돌 (적, 음료) 처리, 무적 상태 제어
